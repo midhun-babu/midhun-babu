@@ -28,7 +28,7 @@ Welcome to my GitHub! I'm passionate about building robust web applications and 
 
 ### 📈 My GitHub Stats
 
-![Midhun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=midhun0987&show_icons=true&theme=github_dark)
+![Midhun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=midhun-babu&show_icons=true&theme=github_dark)
 
 ---
 
