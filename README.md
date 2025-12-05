@@ -7,7 +7,7 @@ Welcome to my GitHub! I'm passionate about building robust web applications and 
 ### 🚀 About Me
 - 💻 **Full Stack Developer**
 - 🚀 Currently working on **React, Next.js, Node.js** projects
-- 🌱 Learning **Macheine learning with Data Modelling**
+- 🌱 Learning **Machine learning with Data Modelling**
 - 🛠️ Interested in **Open Source**, scalable architecture, and automation
 - 📫 How to reach me: [Email](mailto:midhunbabu12345@gmail.com) | [LinkedIn](https://www.linkedin.com/in/midhun-babu-0742b61a8/)
 
