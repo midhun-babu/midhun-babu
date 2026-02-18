@@ -1,130 +1,116 @@
-## 👋 Hi, I'm Midhun
+# 👋 Hi, Midhun here!
+Since u came here lets get to know....
 
-Welcome to my GitHub! I’m a **Full Stack Developer** with a strong academic foundation in **Computer Science**, actively building scalable web applications and exploring **data-driven and ML-oriented systems**. This space reflects my **projects, internships, coursework, and experiments**.
+I’m a **final-year MCA student** who enjoys working with **data, analytics, and clean backend logic**. I like turning ideas into practical projects and learning by building things that actually work.
 
----
-
-## 🚀 About Me
-
-* 💻 **Full Stack Developer** (MERN Stack)
-* ⚛️ Actively building with **React, Next.js, Node.js**
-* 🌱 Learning **Machine Learning & Data Modelling**
-* 🧠 Strong interest in **System Design, Networking, and Scalable Architectures**
-* 🔓 Open-source enthusiast & continuous learner
-* 📫 Reach me:
-  **Email:** [midhunbabu12345@gmail.com](mailto:midhunbabu12345@gmail.com)
-  **LinkedIn:** [https://www.linkedin.com/in/midhun-babu-0742b61a8/](https://www.linkedin.com/in/midhun-babu-0742b61a8/)
+📍 Kochi, Kerala  
+🎓 MCA (2024–2026) | BCA (2021–2024)  
+📊 Data Analytics & Business Analytics enthusiast  
 
 ---
 
-## 🎓 Academic Background
+## 🙋‍♂️ A Little About Me
 
-* 🎓 **Computer Science Student**
-* 📘 Strong exposure to:
+- Final-year **MCA student at Muthoot Institute of Technology and Science**
+- Strong in **SQL and Python**, with hands-on experience in **data analytics & machine learning**
+- Currently a **paid intern at Fingent**, working on **Node.js and backend development**
+- Interested in **data-driven roles** where problem-solving and logic matter
+- Quick with numbers and logical thinking (yes, I still do mental math 😄)
+- **First-Dan Karate Black Belt** & former **NCC cadet** (B & C certificates – C with A grade)
 
-  * Computer Networks (IPv4/IPv6, Routing, OSI, TCP/IP)
-  * DBMS (Normalization, Indexing, Transactions)
-  * Cyber Law & Intellectual Property Rights
-  * Web Technologies & Software Engineering
-* 🧪 Academic projects focused on **real-world problem solving** and **deployment readiness**
-
----
-
-## 🏢 Internships & Training
-
-* 💼 **Web Development Intern**
-
-  * Built responsive web interfaces
-  * Worked with real-world project workflows
-  * Improved debugging, version control, and deployment skills
-* 🧑‍💻 Hands-on experience with **team collaboration, Git workflows, and deadlines**
-
-*(More internship & training updates will be added as they progress)*
+I enjoy learning continuously and working on projects that challenge me to think better and build smarter.
 
 ---
 
-## 🧰 Languages & Tools
+## 🧰 Tech Stack & Skills
 
-![JavaScript](https://img.shields.io/badge/Javascript-F7DF1E?style=flat\&logo=javascript\&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat\&logo=typescript\&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat\&logo=react\&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat\&logo=next-dot-js\&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat\&logo=node-dot-js\&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat\&logo=mongodb\&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-3776AB?style=flat\&logo=postgresql\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat\&logo=python\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat\&logo=git\&logoColor=white)
+### 💻 Programming
+- Python  
+- SQL 
+- C (foundational to intermediate)
 
----
+### 🌐 Web & Backend
+- HTML, CSS, JavaScript  
+- Bootstrap  
+- Django  
+- Node.js (currently working on live projects)
 
-## 📈 GitHub Stats
+### 📊 Data & ML
+- Data Analytics  
+- Data Science  
+- Machine Learning  
+- Data cleaning & analysis  
 
-![Midhun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=midhun-babu\&show_icons=true\&theme=github_dark)
-
----
-
-## 🌟 Featured Projects
-
-### 🚗 Trip Finder
-
-🔗 [https://github.com/midhun0987/TripFinder](https://github.com/midhun0987/TripFinder)
-**Tech:** React, Node.js, APIs
-
-* Personalized trip recommendations
-* Real-time data handling
-* Clean UI with scalable structure
+### 🗄️ Databases
+- SQL / MySQL  
+- MongoDB (familiar)
 
 ---
 
-### 📦 IMS – Inventory Management System
+## 🚀 Projects I’ve Worked On
 
-🔗 [https://github.com/midhun0987/microproject](https://github.com/midhun0987/microproject)
-**Tech:** MERN Stack
+### 🔹 SpyX – ML-Based Malware Detection
+A machine learning project focused on detecting malware using data-driven techniques.  
+This is my **latest and strongest project**, and it reflects my interest in ML and analytics.
 
-* Real-time stock tracking
-* Multi-location inventory control
-* CRUD operations with authentication
+### 🔹 Inventory Management System (IMS)
+A system designed to manage inventory workflows with a business and analytics perspective.
 
----
-
-### 🌐 Responsive Product Showcase Website
-
-* Bootstrap-based UI
-* Product-specific enquiry system
-* Mobile-first responsive design
-* Dynamic navigation & UI components
+### 🔹 Tripfinder
+A web-based application that helped me strengthen my backend and application logic skills using Python and Django.
 
 ---
 
-### 🧪 Academic & Practice Projects
+## 💼 Internship Experience
 
-* Networking simulations & protocol analysis
-* Database-driven applications
-* Frontend-focused UI/UX assignments
-* Mini-projects aligned with coursework
+### 🏢 Fingent (Paid Internship) – Infopark Carnival  
+**Feb 2026 – Present**  
+- Working on **Node.js** and backend development  
+- Hands-on experience with real-world projects  
 
-➡️ **More Projects:** [https://github.com/midhun0987?tab=repositories](https://github.com/midhun0987?tab=repositories)
+### 🏢 Larsen & Toubro (L&T)  
+**Jul 2025 – Dec 2025**  
+- Internship in **Machine Learning & Data Analytics**  
+- Gained strong exposure to analytics workflows and applied ML  
 
----
-
-## 🎯 Current Focus (2026)
-
-* Advanced **React & Next.js**
-* Backend optimization with **Node.js**
-* **Machine Learning fundamentals**
-* Real-world full-stack project deployments
-* Preparing for **internships & industry roles**
+### 🏢 TechMindz – Infopark Carnival  
+**Oct 2023 – Mar 2024**  
+- Python & Django internship  
+- Backend development and web application work  
 
 ---
 
-## 🤝 Let’s Connect
+## 🏛️ Leadership & Activities
 
-* 💼 LinkedIn: [https://www.linkedin.com/in/midhun-babu-0742b61a8/](https://www.linkedin.com/in/midhun-babu-0742b61a8/)
-* 🌐 Portfolio: [https://midhunbabu.vercel.app/](https://midhunbabu.vercel.app/)
+- **Secretary – Computer Association “Compute X” (2025–2026)**  
+  - Led technical sessions, quizzes, and activities  
+  - Organized **24-hour hackathons in 2025 & 2026**
+
+- **Treasurer – Computer Association (2023–2024)**  
+  - Managed funds and supported academic events  
+
+- **Volunteer – KSIDC Global Summit (3 days)**  
+  - Delegate handling, registration, guidance, and interaction  
 
 ---
 
-⭐ *If you like my work, feel free to star my repositories and connect with me!*
+## 🎯 What I’m Looking For
+
+I’m currently exploring opportunities in:
+- Data Analyst / Junior Data Analyst  
+- Business Analyst (Data / Tech-focused)  
+- Associate Data Scientist  
+- Analytics Engineer (Junior)  
+- Python or data-focused backend roles  
+
+I’m especially interested in roles where **SQL, analytics, and problem-solving** play a key role.
 
 ---
 
+## 📫 Let’s Connect
+
+- 💼 LinkedIn: www.linkedin.com/in/midhun-babu-s  
+- 📧 Email: midhunbabu12345@gmail.com 
+- 💻 GitHub: You’re already here 😄  
+
+Thanks for stopping by! Feel free to explore my projects or reach out if you’d like to connect ⭐
