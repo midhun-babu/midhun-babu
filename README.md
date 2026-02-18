@@ -1,8 +1,3 @@
-Here’s an **updated, polished GitHub profile README** that reflects **your current projects, academic progress, internships, and technical focus**, while keeping it clean and recruiter-friendly.
-You can **directly copy-paste** this into your `README.md`.
-
----
-
 ## 👋 Hi, I'm Midhun
 
 Welcome to my GitHub! I’m a **Full Stack Developer** with a strong academic foundation in **Computer Science**, actively building scalable web applications and exploring **data-driven and ML-oriented systems**. This space reflects my **projects, internships, coursework, and experiments**.
