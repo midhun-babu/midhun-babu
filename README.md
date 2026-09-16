@@ -36,11 +36,18 @@ Outside of code: First-Dan Karate Black Belt 🥋, former NCC cadet (B & C certi
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=flat&logo=duckdb&logoColor=black)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)
+![Razorpay](https://img.shields.io/badge/Razorpay-02042B?style=flat&logo=razorpay&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 
@@ -48,17 +55,17 @@ Outside of code: First-Dan Karate Black Belt 🥋, former NCC cadet (B & C certi
 
 ### 🚀 Featured Projects
 
+**[Ledger – Forensic AI Assistant](https://github.com/midhun-babu/Ledger)**
+Offline Windows investigation platform combining DFIR and financial fraud analysis — deterministic anomaly detection (Benford's Law, structuring detection) feeds a local AI agent that must cite raw evidence for every finding, with full traceability from claim to source record.
+`Python` `FastAPI` `DuckDB` `React` `Typer`
+
+**[CreditSense – Loan Application Platform](https://github.com/midhun-babu/CreditSense)**
+Full-stack loan management system with eligibility checks, application flow, and secure Razorpay payment integration with cryptographic signature verification. Includes a role-based admin dashboard for reviewing applications and tracking disbursement stats.
+`React` `Node.js` `Express` `MongoDB` `JWT` `Razorpay`
+
 **[SpyX – ML-Based Malware Detection](https://github.com/midhun-babu/SpyX)**
 Machine learning model to classify and flag malware signatures from data-driven feature patterns. My strongest project, and the one that shaped my interest in applied ML.
 `Python` `Scikit-learn` `Pandas`
-
-**[Inventory Management System (IMS)](https://github.com/midhun-babu/Inventory-Management-System)**
-A backend system for managing inventory workflows with a business-analytics lens — tracking stock movement and flagging reorder points.
-`Python` `Django` `SQL`
-
-**[Tripfinder](https://github.com/midhun-babu/Tripfinder)**
-Web app for trip planning that helped me sharpen backend architecture and application logic.
-`Python` `Django`
 
 > 📌 I've guessed these repo URLs from your project names — double-check each one resolves (case and hyphens matter on GitHub), and fix any that don't match your actual repo names.
 
